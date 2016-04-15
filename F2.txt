@@ -1,5 +1,0 @@
-# MyFirstRepository
-My Test Repository
-New files
-.....
-Test
